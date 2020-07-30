@@ -17,11 +17,14 @@ Windows Terminal is a new, modern, feature-rich, productive terminal application
 * Tutorial: https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup
 
 ### Setup Oh-my-posh
-* Start PowerShell ad Administrator
+* Start PowerShell as Administrator
 * Set-ExecutionPolicy Unrestricted
 * Import-Module PowerShellGet 
 * Install-Module -Name oh-my-posh 
 * Install-Module oh-my-posh -Scope CurrentUser 
+* Import-Module posh-git
+* Import-Module oh-my-posh
+* Set-Theme Paradox
 * Set-Prompt 
 * Set-Theme Agnoster 
 
