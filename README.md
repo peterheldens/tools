@@ -25,8 +25,10 @@ Windows Terminal is a new, modern, feature-rich, productive terminal application
 * Set-Prompt 
 * Set-Theme Agnoster 
 
-### Setup PowerLine Font (Cascadia Fonts)
-* Add some Fonts to C:\Windows\Fonts
+### Install a PowerLine Font
+Powerline uses glyphs in order to style the prompt. If your font does not include Powerline glyphs, you may see several Unicode replacement characters '▯' throughout your prompt. Though [Cascadia Mono](https://docs.microsoft.com/en-us/windows/terminal/cascadia-code) does not include Powerline glyphs, you can install Cascadia Code PL or Cascadia Mono PL, which have the Powerline glyphs included. These fonts can be installed from the [Cascadia Code GitHub releases page](https://github.com/microsoft/cascadia-code/releases)
+
+* Download fonts
 * Drag & drop to C:\Windows\Fonts or right click and press intstall:
   * CascadiaCodePL.ttf
   * CascadiaMonoPL.ttf
