@@ -11,10 +11,9 @@ Windows Terminal is a new, modern, feature-rich, productive terminal application
 * [Windows Terminal Documentation](https://docs.microsoft.com/windows/terminal) ([Repo: Contribute to the docs](https://github.com/MicrosoftDocs/terminal))
 
 ### Awesome prompt with Git Branch ....
-
-* More details https://github.com/JanDeDobbeleer/oh-my-posh
 * [Video of my colleague Scott Hanselman](https://www.youtube.com/watch?v=lu__oGZVT98)
 * Tutorial: https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup
+* More details https://github.com/JanDeDobbeleer/oh-my-posh
 
 ### Setup Oh-my-posh
 * Start PowerShell as Administrator
