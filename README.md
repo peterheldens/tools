@@ -10,12 +10,11 @@ Windows Terminal is a new, modern, feature-rich, productive terminal application
 * This is an open source project, to participate please visit: https://github.com/microsoft/terminal
 * [Windows Terminal Documentation](https://docs.microsoft.com/windows/terminal) ([Repo: Contribute to the docs](https://github.com/MicrosoftDocs/terminal))
 
-## Awesome prompt with Git Branch ....
+### Awesome prompt with Git Branch ....
 * How to set up an awesome prompt with your Git Branch, Windows Terminal, PowerShell, + Cascadia Code! https://www.hanselman.com/blog/HowToM...
 * More details https://github.com/JanDeDobbeleer/oh-my-posh
 * [Video of my colleague Scott Hanselman](https://www.youtube.com/watch?v=lu__oGZVT98)
-h
-ttps://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup
+* Tutorial: https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup
 
 ### Setup Oh-my-posh
 * Start PowerShell ad Administrator
