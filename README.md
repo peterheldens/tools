@@ -34,7 +34,7 @@ Powerline uses glyphs in order to style the prompt. If your font does not includ
   * CascadiaMonoPL.ttf
 
 ### Edit settings and modify settings.json
-```code js
+```code JSON
   "defaults":
   {
       // Put settings here that you want to apply to all profiles.
