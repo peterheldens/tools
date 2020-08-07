@@ -66,3 +66,9 @@ choco install microsoft-edge-insider -y
 #choco install spotify -y >> error
 #choco install sonicpi -y >> error
 choco install sonicvisualiser -y
+
+# config
+# To set Visual Studio Code as your default editor enter this command into command line:
+git config --global core.editor "code --wait"
+# To set default username + email
+git config --global --edit
