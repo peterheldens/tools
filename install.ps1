@@ -20,6 +20,7 @@ choco install cascadiacodepl -y
 choco install carnac -y
 choco install cygwin -y
 choco install postman -y
+choco install powershell-core -y
 
 # azure
 choco install azure-cli -y
@@ -72,3 +73,12 @@ choco install sonicvisualiser -y
 git config --global core.editor "code --wait"
 # To set default username + email
 git config --global --edit
+
+# setPowerLine
+Install-Module posh-git -Scope CurrentUser
+Install-Module oh-my-posh -Scope CurrentUser
+#      // Make changes here to the powershell.exe profile.
+#      "name": "Windows PowerShell",
+#      "commandline": "powershell.exe",
+#>>    "fontFace": "Cascadia Code PL",
+  
