@@ -4,8 +4,7 @@ choco install chocolateygui -y
 
 # dev tools 
 choco install vscode -y
-choco install vscode-powershell -y
-choco install vscode-arduino -y
+.\vscode\vsconfig.ps1
 choco install git -y
 choco install putty.install -y
 choco install curl -y

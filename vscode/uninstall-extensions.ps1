@@ -38,3 +38,9 @@ code --uninstall-extension DavidAnson.vscode-markdownlint
 
 # Beautify code in place for VS Code
 code --uninstall-extension hookyqr.beautify
+
+# arduino
+code --uninstall-extension vscode-arduino
+
+# Azure CLI
+code --uninstall-extension ms-vscode.azurecli

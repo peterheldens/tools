@@ -38,3 +38,9 @@ code --install-extension DavidAnson.vscode-markdownlint
 
 # Beautify code in place for VS Code
 code --install-extension hookyqr.beautify
+
+# arduino
+code --install-extension vscode-arduino
+
+# Azure CLI
+code --install-extension ms-vscode.azurecli

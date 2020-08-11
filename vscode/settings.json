@@ -1,4 +1,4 @@
-// %APPDATA%\Code\User\settings.json
+// Copy this to %APPDATA%\Code\User\settings.json
 {
   "editor.fontSize": 18,
   "files.autoSave": "afterDelay",
