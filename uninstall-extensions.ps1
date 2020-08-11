@@ -1,0 +1,13 @@
+code --uninstall-extension tomoki1207.pdf
+code --uninstall-extension CoenraadS.code 
+code --uninstall-extension bracket-pair-colorizer-2
+code --uninstall-extension ms-vscode-remote.remote-wsl
+code --uninstall-extension ms-vscode.powershell
+code --uninstall-extension tomoki1207.pdf
+code --uninstall-extension vscode-icons-team.vscode-icons
+code --uninstall-extension humao.rest-client
+code --uninstall-extension esbenp.prettier-vscode
+code --uninstall-extension oderwat.indent-rainbow
+code --uninstall-extension formulahendry.auto-rename-tag
+code --uninstall-extension donjayamanne.githistory
+code --uninstall-extension eamodio.gitlens

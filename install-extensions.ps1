@@ -1,0 +1,13 @@
+code --install-extension tomoki1207.pdf
+code --install-extension CoenraadS.code 
+code --install-extension bracket-pair-colorizer-2
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode.powershell
+code --install-extension tomoki1207.pdf
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension humao.rest-client
+code --install-extension esbenp.prettier-vscode
+code --install-extension oderwat.indent-rainbow
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension donjayamanne.githistory
+code --install-extension eamodio.gitlens
