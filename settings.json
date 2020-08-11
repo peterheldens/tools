@@ -1,0 +1,12 @@
+// %APPDATA%\Code\User\settings.json
+{
+  "editor.fontSize": 18,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontSize": 18,
+  "git.autofetch": true,
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.fontFamily": "Cascadia Code PL",
+  "editor.formatOnSave": true
+}
